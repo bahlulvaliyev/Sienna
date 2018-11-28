@@ -1,0 +1,96 @@
+
+@media  only screen and (max-width: 1279px){
+    
+body{
+    overflow-x: hidden;
+    font-family: "Hind Vadodara", sans-serif;
+}
+    .index-div {
+        padding: 0px 0%;
+    }
+    .first-head-svg-2 {
+        position: absolute;
+        right: 43.8%;
+        top: -10%;
+    }
+    .tw-sec-list li {
+        padding: 20px 25px;
+    }
+    
+    .first-head-svg-3 {
+        margin-top: -7%;
+        position: absolute;
+        left: 63.8%;
+    }
+    .first-head-svg-4{
+        position: absolute;
+        top: 10%;
+        left: 56%;
+    }
+    .thrice-section p {
+        padding: 0 75px;
+    }
+    .thr-sec-abs-left {
+        display: none;
+    }
+    .tw-mn-abs-right{
+        display: none;
+    }
+    .frs-main-1{
+        display: none;
+    }
+    .frs-main-back{
+        background-image: none;
+    }
+    .frs-mn-mrg-lft-1 {
+        margin: 0px 24px 0 87px;
+    }
+    .frs-mn-mrg-lft-3 {
+        margin-top: 0px;
+    }
+    .thrice-main {
+        margin-left: 16%;
+    }
+    .four-section .col-md-5{
+        width: 608px;
+    }
+    .four-section .col-md-7{
+        width: 320px;
+    }
+    .col-md-7 svg{
+        width: 320px;
+        height: 213px;
+    }
+    .five-section{
+        height: 214px;
+    }
+    .four-section .col-md-5 br{
+        display: none;
+    }
+    .five-section .five-section-adding{
+        width:608px;
+    }
+    .five-section .five-section-adding br{
+        display: none;
+    }
+    .sec-hide-2{
+        width: 319px;
+    }
+    .sec-hide-2 svg{
+        width: 319px;
+        height: 213px;
+    }
+    .six-section .col-md-5{
+        width: 608px;
+    }
+    .six-section .col-md-7{
+        width: 320px;
+    }
+    .six-section .col-md-7 svg{
+        width: 319px;
+        height: 213px;
+    }
+}
+@media  only screen and (max-width: 1023px){
+
+}

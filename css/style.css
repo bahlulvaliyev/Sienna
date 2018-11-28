@@ -1,3 +1,4 @@
+
 body{
     overflow-x: hidden;
     font-family: "Hind Vadodara", sans-serif;
@@ -356,8 +357,12 @@ ul{
     color: #ffffff;
     font-family: Frank Ruhl Libre, serif;
 }
-.twice-main .col-md-6{
-    display: none;
+/*col-md-6*/
+.twice-main .twc-mn-1{
+    display: none; 
+}
+.twice-main .twc-mn-2{
+    display: none; 
 }
 .twc-mn-2{
     background-color: #0181F6;
