@@ -15,12 +15,11 @@ $(document).ready(function () {
         $('.first-head-svg-4').fadeIn(1200);
      });
      $('.thrice-section').mousemove(function () { 
-        
         $('.first-head-svg-3').fadeIn(800);
         $('.first-head-svg-4').fadeIn(1200);
      });
      $('.four-section').mousemove(function () { 
-        $('.sec-hide-1').slide(800);
+        $('.sec-hide-1').fadeIn(800);
         $('.sec-hide-2').fadeIn(800);
      });
      $('.five-section').mousemove(function () { 

@@ -91,6 +91,7 @@ body{
 ul{
     list-style: none;   
 }
+
 .tw-sec-list li{
     display: inline-flex;
     padding: 20px 35px;
@@ -213,6 +214,16 @@ ul{
 
 
 /*First main*/
+.resp-1{
+    display: inline-flex;
+}
+
+.resp-2{
+    display: inline-block;
+}
+.resp-3{
+    padding-left: 0;
+}
 .frs-main-back{
     background-image: url("../images/download.svg");
     width: 1071px;

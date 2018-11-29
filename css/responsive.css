@@ -90,7 +90,120 @@ body{
         width: 319px;
         height: 213px;
     }
+    .six-section .col-md-5 br{
+        display: none;
+    }
 }
 @media  only screen and (max-width: 1023px){
+    body{
+        overflow-x: hidden;
+        font-family: "Hind Vadodara", sans-serif;
+    }
+    .index-div {
+        padding: 0px 4%;
+    }
+    .first-head-svg-2 {
+        position: absolute;
+        right: 18%;
+        top: -10%;
+    }
+    .first-head-svg-3 {
+        margin-top: -22%;
+        position: absolute;
+        left: 81.8%;
+    }
+    .first-head-svg-4{
+        position: absolute;
+        top: 10%;
+        left: 75%;
+    }
+    .tw-sec-list {
+        margin-left: -34px;
+        margin-right: -50px;
+    }
+    .four-section .col-md-5 {
+        width: 352px;
+    }
+    .fr-sec-pad {
+        padding: 0 19px;
+    }
+    .four-section .col-md-7 {
+        width: 320px;
+        float: right;
+    }
+    .five-section .five-section-adding {
+        width: 362px;
+        float: right;
+    }
+    .five-section svg {
+        margin-left: 0;
+    }
+    .sec-hide-2 {
+        width: 319px;
+        float: left;
+    }
+    .six-sec-pad {
+        padding: 0;
+    }
+    .six-section .col-md-5 {
+        width: 352px;
+        float: left;
+    }
+    .six-section .col-md-7 {
+        width: 320px;
+        float: right;
+    }
+    .frs-main-back {
+        width: 750px;
+        height: 800px; 
+    }
+    .block{
+        display: inline-flex;
+    }
+    .frs-mn-mrg-lft-1 {
+        margin: 0px 24px 0 45px;
+    }
+    .frs-main {
+        display: inline;
+    }
+    .resp-3 {
+        padding-left: 34%;
+        padding-top: 15px;
+    }
+    .twc-mn-1 {
+        margin-left: 4%;
+        float: left;
+    }
+    .thrice-main {
+        margin-left: 12%;
+    }
+    .thrice-main {
+        width: 647px;
+    }
+    .foot-1 {
+        margin-top: 20%;
+    }
+    .copyr li {
+        position: absolute;
+        padding: 11px 0;
+        margin-left: -28px;
+    }
+    .about-tab {
+        float: right;
+        font-size: 13px;
+        margin-right: 3%;
+    }
+    .copyr{
+        float: unset;
+    }
+    .foot-1 ul li a{
+        margin-left: -35px;
+    }       
+}
+@media screen and (max-width: 767){
+    .index-div {
+        padding: 0;
+    }
+
 
 }
