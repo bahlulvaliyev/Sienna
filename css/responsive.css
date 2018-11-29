@@ -308,11 +308,94 @@ body{
         height: auto;
     }
     .thrice-main {
-        width: 405px;
+        width: 350px;
     }
     .thr-mn-1 h4 {
         color: #1D2B4C;
         padding: 10px 0;
         cursor: pointer;
     }
+    .thr-mn-1 h4 b{
+        font-size: 12px;
+    }
+    .thr-mn-1 h4 br{
+        display: inline;
+    }
+    .thr-mn-2 h4 {
+        color: #1D2B4C;
+        padding: 10px 0;
+        cursor: pointer;
+        font-size: 12px;
+    }
+    .thr-mn-2 h4 b{
+        font-size: 12px;
+    }
+    .thr-mn-3 h4 {
+        color: #1D2B4C;
+        padding: 10px 0;
+        cursor: pointer;
+        font-size: 12px;
+    }
+    .thr-mn-3 h4 b{
+        font-size: 12px;
+    }
+    .thr-mn-3 h4 br{
+        display: inline;
+    }
+    .thr-mn-4 h4 {
+        color: #1D2B4C;
+        padding: 10px 0;
+        cursor: pointer;
+        font-size: 12px;
+    }
+    .thr-mn-4 h4 b{
+        font-size: 12px;
+    }
+    .thr-mn-1-p br{
+        display: none;
+    }
+    .thr-mn-1-p {
+        font-size: 13px;
+    }
+    .thr-mn-2 p br{
+        display: none;
+    }
+    .thr-mn-2 p {
+        font-size: 13px;
+    }
+    .thr-mn-3 p br{
+        display: none;
+    }
+    .thr-mn-3 p {
+        font-size: 13px;
+    }
+    .thr-mn-4 p br{
+        display: none;
+    }
+    .thr-mn-4 p {
+        font-size: 13px;
+    }
+    .foot-1 {
+        margin-top: 15%;
+    }
+    .pin-1{
+        position: absolute;
+        left:50%;
+    }
+    .about-tab {
+        margin-right: 15%;
+        margin-top: 1%;
+    }
+    .copyr li {
+        position: absolute;
+        padding: 0px 0;
+        margin-left: 71px;
+        top: 152px;
+    }
+    .soc-netw {
+        float: right;
+        margin-top: 9%;
+        margin-right: 29%;
+    }
+
 }

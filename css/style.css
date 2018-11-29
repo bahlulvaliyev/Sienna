@@ -558,7 +558,9 @@ ul{
     float:right;
     color: #0181F6;
 }
-
+.thr-mn-1 h4 br{
+    display:none;
+}
 /*Footer*/
 .footer{
     background-image: url("../images/footer-background.svg");
