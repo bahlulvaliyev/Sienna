@@ -149,6 +149,8 @@ ul{
 .sec-hide-1{
     display: none;
     opacity: 0.4;
+    float: right;
+    margin-right: -11%;
 }
 .sec-hide-2{
     display: none;
@@ -157,6 +159,8 @@ ul{
 .sec-hide-3{
     display: none;
     opacity: 0.4;
+    float: right;
+    margin-right: -11%;
 }
 
 
@@ -430,7 +434,7 @@ ul{
 
 /*Thrice main*/
 .thrice-main{
-    margin-left: 22%;
+    margin-left: 25%;
     margin-bottom: 80px;
     width: 682px;
 }

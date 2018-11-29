@@ -200,10 +200,119 @@ body{
         margin-left: -35px;
     }       
 }
-@media screen and (max-width: 767){
-    .index-div {
-        padding: 0;
+@media screen and (max-width: 767px){
+    body{
+        overflow-x: hidden;
+        font-family: "Hind Vadodara", sans-serif;
     }
-
-
+    .index-div {
+        padding: 0 4%;
+    }
+    .first-head-svg-2 {
+        position: absolute;
+        left: 68%;
+        top: -8%;
+    }
+    .tw-sec-list {
+        margin-top: 316px;
+    }
+    .first-head-svg-3 {
+        position: absolute;
+        left: 27%;
+        top: 622px;
+    }
+    .first-head-svg-3 svg{
+        width: 396px;
+        height: 366px;
+    }
+    .first-head-svg-4 {
+        position: absolute;
+        top: 622px;
+        left: 19%;
+    }
+    .first-head-svg-4 svg{
+        width: 350px;
+        height: 240px;
+    }
+    .first-section .col-md-7 h1 {
+        font-size: 40px;
+        line-height: 50px;
+        letter-spacing: -0.1px;
+        text-align: center;
+    }  
+    .first-section .col-md-7 .p1 {
+        color: #5B6A87;
+        font-size: 19px;
+        margin-bottom: 32px;
+        text-align: center;
+    } 
+    .first-section .col-md-7 .p1 br{
+        display: none;
+    }
+    .frs-sec-div {
+        margin-left: 29%;
+    }
+    .tw-sec-list {
+        display: grid;
+    }
+    .thrice-section p {
+        padding: 0 30px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .thrice-section h2 {
+        padding-bottom: 20px;
+        letter-spacing: 0.1px;
+    }
+    .sec-hide-1 {
+        margin-right: 14%;
+    }
+    .four-section .col-md-5 {
+       
+        margin-left: 21%;
+    }
+    .sec-hide-2 {
+        margin-left: 14%;
+    }
+    .sec-hide-3 {
+        margin-right: 14%;
+    }
+    .six-section {
+        margin: 40px 0;
+        height: auto;
+    }
+    .six-section .col-md-5 {
+        margin-left: 24%;
+    }
+    .resp-1 {
+        display: block;
+    }
+    .frs-mn-mrg-lft-2 {
+        margin: 4% 25px 0 7%; 
+    }
+    .frs-main-back {
+        width: 750px;
+        height: auto;
+    }
+    .resp-3 {
+        padding-left: 12%;
+    }
+    .twc-mn-1 {
+        margin-left: 11%;
+        float: left;
+    }
+    .twice-main .twc-mn-2 {
+        margin-left: 11%;
+    }
+    .twice-main {
+        height: auto;
+    }
+    .thrice-main {
+        width: 405px;
+    }
+    .thr-mn-1 h4 {
+        color: #1D2B4C;
+        padding: 10px 0;
+        cursor: pointer;
+    }
 }
