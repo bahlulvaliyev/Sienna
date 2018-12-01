@@ -1,10 +1,10 @@
 
 @media  only screen and (max-width: 1279px){
     
-body{
-    overflow-x: hidden;
-    font-family: "Hind Vadodara", sans-serif;
-}
+    body{
+        font-family: "Hind Vadodara", sans-serif;
+        overflow-x: hidden;
+    }
     .index-div {
         padding: 0px 0%;
     }
@@ -16,11 +16,15 @@ body{
     .tw-sec-list li {
         padding: 20px 25px;
     }
-    
+    .tw-sec-list{
+        justify-content: space-around;
+        padding-bottom: 40px;
+        padding-top:123px;
+    }
     .first-head-svg-3 {
         margin-top: -7%;
         position: absolute;
-        left: 63.8%;
+        left: 62.1%;
     }
     .first-head-svg-4{
         position: absolute;
@@ -94,10 +98,10 @@ body{
         display: none;
     }
 }
-@media  only screen and (max-width: 1023px){
+@media  only screen and (max-width: 992px){
     body{
-        overflow-x: hidden;
         font-family: "Hind Vadodara", sans-serif;
+        overflow-x: hidden;
     }
     .index-div {
         padding: 0px 4%;
@@ -200,10 +204,17 @@ body{
         margin-left: -35px;
     }       
 }
-@media screen and (max-width: 767px){
+
+@media screen and (max-width: 690px){
+    .twice-main {
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 630px) {
     body{
-        overflow-x: hidden;
         font-family: "Hind Vadodara", sans-serif;
+        overflow-x: hidden;
     }
     .index-div {
         padding: 0 4%;
@@ -224,6 +235,7 @@ body{
     .first-head-svg-3 svg{
         width: 396px;
         height: 366px;
+
     }
     .first-head-svg-4 {
         position: absolute;

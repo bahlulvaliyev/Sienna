@@ -1,9 +1,9 @@
 
 body{
-    overflow-x: hidden;
     font-family: "Hind Vadodara", sans-serif;
-    color: #919EB7;;
+    color: #919EB7;
     font-size: 1rem;
+    overflow-x: hidden;
 }
 .index-div{
     padding: 0px 7%;
@@ -17,6 +17,7 @@ body{
 
 .first-head-svg-1{
     padding: 24px 0px;
+    
 }
 .first-head-svg-2{
     display: none;
@@ -26,10 +27,11 @@ body{
 }
 .first-head-svg-3{
     display: none;
-    margin-top: -6%;
+    width: 532px;
+    overflow: hidden;
+    margin-top: -13%;
     position: absolute;
-    left: 57.8%;
-    
+    left: 62.1%;
 }
 .first-head-svg-4{
     display: none;
@@ -149,7 +151,6 @@ ul{
 .sec-hide-1{
     display: none;
     float: right;
-    margin-right: -11%;
 }
 .sec-hide-2{
     display: none;
@@ -157,7 +158,6 @@ ul{
 .sec-hide-3{
     display: none;
     float: right;
-    margin-right: -11%;
 }
 
 
@@ -193,6 +193,7 @@ ul{
 
 .six-section{
     margin: 40px 0;
+    display: inline-block;
 }
 
 .six-sec-pad {
@@ -424,6 +425,8 @@ ul{
 }
 
 .tw-mn-abs-right {
+    width: 267px;
+    overflow: hidden;
     position: absolute;
     left: 81%;
 }
