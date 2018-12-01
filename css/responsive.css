@@ -97,6 +97,9 @@
     .six-section .col-md-5 br{
         display: none;
     }
+    .thrice-main {
+        margin-left: 23%;
+    }
 }
 @media  only screen and (max-width: 992px){
     body{
@@ -132,7 +135,7 @@
         padding: 0 19px;
     }
     .four-section .col-md-7 {
-        width: 320px;
+        width: 250px;
         float: right;
     }
     .five-section .five-section-adding {
@@ -142,9 +145,15 @@
     .five-section svg {
         margin-left: 0;
     }
+    .sec-hide-1{
+        width: 250px;
+    }
     .sec-hide-2 {
-        width: 319px;
+        width: 250px;
         float: left;
+    }
+    .sec-hide-3{
+        width: 250px;
     }
     .six-sec-pad {
         padding: 0;
@@ -154,7 +163,7 @@
         float: left;
     }
     .six-section .col-md-7 {
-        width: 320px;
+        width: 250px;
         float: right;
     }
     .frs-main-back {
@@ -179,10 +188,8 @@
         float: left;
     }
     .thrice-main {
-        margin-left: 12%;
-    }
-    .thrice-main {
-        width: 647px;
+        width: 515px;
+        margin-left: 22%;
     }
     .foot-1 {
         margin-top: 20%;
@@ -205,9 +212,19 @@
     }       
 }
 
-@media screen and (max-width: 690px){
+@media screen and (max-width: 768px){
     .twice-main {
         height: auto;
+    }
+    .twc-mn-1 {
+        margin-left: 25%;
+    }
+    .twc-mn-2 {
+        margin-left: 25%; 
+
+    }
+    .tw-sec-list li {
+        padding: 20px 9px;
     }
 }
 
@@ -401,7 +418,7 @@
     .copyr li {
         position: absolute;
         padding: 0px 0;
-        margin-left: 71px;
+        margin-left: 25%;
         top: 152px;
     }
     .soc-netw {
